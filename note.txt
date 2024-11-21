@@ -1,0 +1,5 @@
+
+
+
+-- Đẩy lần đầu
+git add add
